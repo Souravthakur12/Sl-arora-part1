@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">S.L ARORA PART1</string>
+
+    <string name="group1">Semester1</string>
+    <string name="group2">Semester2</string>
+    <string name="group3">Semester3</string>
+    <string name="group4">Semester4</string>
+    <string name="group5">Semester5</string>
+    <string name="group6">Semester6</string>
+    <string name="group7">Semester7</string>
+    <string name="image_of_chapter1">Image of chapter1</string>
+    <string name="chapter_6">Chapter 6</string>
+    <string name="electromagnatic_induction">Electromagnatic Induction</string>
+    <string name="electric_charges_and_fields">Electric Charges and Fields</string>
+    <string name="chapter_2">Chapter 2</string>
+    <string name="magnetic_effect_of_current">Magnetic Effect of Current</string>
+    <string name="current_electricity">Current Electricity</string>
+    <string name="chapter_5">Chapter 5</string>
+    <string name="magnetism">Magnetism</string>
+    <string name="chapter_4">Chapter 4</string>
+    <string name="chapter1">Chapter1</string>
+    <string name="electrostatic_potential_and_capacitance">Electrostatic Potential and Capacitance</string>
+    <string name="chapter_7">Chapter 7</string>
+    <string name="alternating_current">Alternating Current</string>
+    <string name="chapter_3">Chapter 3</string>
+
+
+    <string-array name="group1">
+        <item>Page 1-10</item>
+        <item>Page 11-20</item>
+        <item>Page 21-30</item>
+        <item>Page 31-40</item>
+        <item>Page 41-50</item>
+        <item>Page 51-60</item>
+        <item>Page 61-70</item>
+        <item>Page 71-80</item>
+        <item>Page 81-93</item>
+    </string-array>
+
+    <string-array name="group2">
+        <item>CSE</item>
+        <item>ECE</item>
+
+    </string-array>
+
+    <string-array name="group3">
+        <item>CSE</item>
+        <item>ECE</item>
+
+    </string-array>
+
+    <string-array name="group4">
+        <item>CSE</item>
+        <item>ECE</item>
+
+    </string-array>
+
+    <string-array name="group5">
+        <item>CSE</item>
+        <item>ECE</item>
+
+    </string-array>
+    <string-array name="group6">
+        <item>CSE</item>
+        <item>ECE</item>
+
+    </string-array>
+    <string-array name="group7">
+        <item>CSE</item>
+        <item>ECE</item>
+
+    </string-array>
+    <string-array name="group8">
+        <item>CSE</item>
+        <item>ECE</item>
+
+    </string-array>
+
+
+</resources>
